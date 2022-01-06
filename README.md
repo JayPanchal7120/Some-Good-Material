@@ -9,3 +9,5 @@ sqlmap  :--  https://www.hackingarticles.in/database-penetration-testing-using-s
 dirb    :--  https://www.hackingarticles.in/comprehensive-guide-on-dirb-tool/
 
 exiftool :-- It is use to get meta information of a file. Use man page for reference.
+
+dirbuster :-- https://www.hackingarticles.in/comprehensive-guide-on-dirbuster-tool/
