@@ -10,4 +10,6 @@ dirb    :--  https://www.hackingarticles.in/comprehensive-guide-on-dirb-tool/
 
 exiftool :-- It is use to get meta information of a file. Use man page for reference.
 
-dirbuster :-- https://www.hackingarticles.in/comprehensive-guide-on-dirbuster-tool/
+dirbuster :-- It will used to identify files and folders on website using bruteforce or wordlists. https://www.hackingarticles.in/comprehensive-guide-on-dirbuster-tool/ 
+
+cewl :-- It basically used to generate wordlist from given website url. for more info refer man page
