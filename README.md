@@ -15,3 +15,5 @@ dirbuster :-- It will used to identify files and folders on website using brutef
 cewl :-- It basically used to generate wordlist from given website url. for more info refer man page
 
 Linux Wildcard injection :-- https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt
+
+hydra for webforms:-- https://infinitelogins.com/2020/02/22/how-to-brute-force-websites-using-hydra/
