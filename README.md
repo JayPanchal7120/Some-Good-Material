@@ -2,7 +2,9 @@
 
 # --:Linux:--
 A to Z of a Sudoers File:--  https://medium.com/kernel-space/linux-fundamentals-a-to-z-of-a-sudoers-file-a5da99a30e7f
+
 NAT Iptables:--   https://www.karlrupp.net/en/computer/nat_tutorial
+
 Linux Wildcard injection :-- https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt
 
 # --:Tools:--
